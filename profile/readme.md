@@ -7,10 +7,6 @@
 
 # :wrench: AIOps Datasets
 
-- [AIOps 2018 Challenge Dataset](https://github.com/AIOps-Lab-NKU/kontrast/tree/bluegreen/dataset/data/aiops2018)
-- [AIOps 2020 Challenge Dataset](https://github.com/AIOps-Lab-NKU/AIOps-Challenge-2020-Data)
-- [GAIA-DataSet](https://github.com/AIOps-Lab-NKU/GAIA-DataSet)
----
 - [JumpStarter-data](https://github.com/AIOps-Lab-NKU/JumpStarter/tree/main/dataset)
 - [AnoTransfer-data](https://github.com/AIOps-Lab-NKU/AnoTransfer-data)
 - [Outspot-data](https://github.com/AIOps-Lab-NKU/Outspot-data)
