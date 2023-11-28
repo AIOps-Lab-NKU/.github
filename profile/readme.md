@@ -9,7 +9,7 @@
 
 # :gear: Open Source Projects
 
-1. Metric-based AIOps methods :crystal_ball:
+1. Metric-based AIOps methods 
 
 - [JumpStarter](https://github.com/AIOps-Lab-NKU/JumpStarter)
 - [PUAD](https://github.com/AIOps-Lab-NKU/PUAD)
@@ -20,7 +20,7 @@
 - [CMDiagnostor](https://github.com/AIOps-Lab-NKU/CMDiagnostor)
 - [PSqueeze](https://github.com/AIOps-Lab-NKU/PSqueeze)
 
-2. Log-based AIOps methods :bookmark_tabs:
+2. Log-based AIOps methods
 
 - [LogMerge](https://github.com/AIOps-Lab-NKU/LogMerge)
 - [Log2Vec](https://github.com/AIOps-Lab-NKU/Log2Vec)
@@ -29,11 +29,11 @@
 - [LogClass](https://github.com/AIOps-Lab-NKU/LogClass)
 - [LogSummary](https://github.com/AIOps-Lab-NKU/LogSummary)
 
-3. Trace-based AIOps methods :rainbow:
+3. Trace-based AIOps methods 
 
 - [TraceAnomaly](https://github.com/AIOps-Lab-NKU/TraceAnomaly)
 
-4. Multimodal data-based AIOps methods:
+4. Multimodal data-based AIOps methods 
 
 - [AnoFusion](https://github.com/AIOps-Lab-NKU/AnoFusion)
 - [KGDiag](https://github.com/AIOps-Lab-NKU/KGDiag)
