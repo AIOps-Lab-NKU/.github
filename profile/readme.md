@@ -17,8 +17,6 @@
 - [LogSummary-data](https://github.com/AIOps-Lab-NKU/LogSummary/tree/master/data)
 - [TraceAnomaly-data](https://github.com/AIOps-Lab-NKU/TraceAnomaly/tree/master/train_ticket)
 - [AnoFusion-data](https://github.com/AIOps-Lab-NKU/AnoFusion/tree/main/data)
-- [CTF-data](https://github.com/NetManAIOps/CTF_data)
-- [DOMI-data](https://github.com/NetManAIOps/DOMI_dataset)
 
 # :gear: Open Source Projects
 
