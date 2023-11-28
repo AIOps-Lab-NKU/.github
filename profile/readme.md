@@ -2,7 +2,7 @@
 
 <center>
     <h1 style="display: flex; flex-direction: row; justify-content: center;">
-        <img src="figure/avatar.png" width="75px" height="50px" style="margin: 25px 10px;">
+        <img src="https://nkcs.iops.ai/wp-content/uploads/2022/03/cropped-cropped-AIOps@NKU-02-e1647311061177.png" width="75px" height="50px" style="margin: 25px 10px;">
         <a href="https://nkcs.iops.ai/" style="line-height: 100px; margin-left: 20px">AIOps-Lab-NKU</a>
     </h1>
 </center>
