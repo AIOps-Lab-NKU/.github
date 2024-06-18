@@ -49,5 +49,5 @@
 4. Multimodal data-based AIOps methods 
 
 - [AnoFusion](https://github.com/AIOps-Lab-NKU/AnoFusion)
-- [KGDiag](https://github.com/AIOps-Lab-NKU/KGDiag)
+- [UniDiag](https://github.com/AIOps-Lab-NKU/UniDiag)
 - [DiagFusion](https://github.com/AIOps-Lab-NKU/DiagFusion)
