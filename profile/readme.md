@@ -31,6 +31,7 @@
 - [OutSpot](https://github.com/AIOps-Lab-NKU/OutSpot)
 - [CMDiagnostor](https://github.com/AIOps-Lab-NKU/CMDiagnostor)
 - [PSqueeze](https://github.com/AIOps-Lab-NKU/PSqueeze)
+- [DualLMAD](https://github.com/AIOps-Lab-NKU/DualLMAD)
 
 2. Log-based AIOps methods
 
