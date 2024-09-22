@@ -18,6 +18,7 @@
 - [TraceAnomaly-data](https://github.com/AIOps-Lab-NKU/TraceAnomaly/tree/master/train_ticket)
 - [AnoFusion-data](https://github.com/AIOps-Lab-NKU/AnoFusion/tree/main/data)
 - [Annotated MTS-data](https://github.com/ldwen/MTS_Data)
+- [AutoPIP-data](https://github.com/AIOps-Lab-NKU/AutoPIP-data)
 
 # :gear: Open Source Projects
 
