@@ -53,3 +53,4 @@
 - [AnoFusion](https://github.com/AIOps-Lab-NKU/AnoFusion)
 - [UniDiag](https://github.com/AIOps-Lab-NKU/UniDiag)
 - [DiagFusion](https://github.com/AIOps-Lab-NKU/DiagFusion)
+- [Medicine](https://github.com/AIOps-Lab-NKU/Medicine)
