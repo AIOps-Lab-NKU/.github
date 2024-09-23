@@ -55,3 +55,7 @@
 - [UniDiag](https://github.com/AIOps-Lab-NKU/UniDiag)
 - [DiagFusion](https://github.com/AIOps-Lab-NKU/DiagFusion)
 - [Medicine](https://github.com/AIOps-Lab-NKU/Medicine)
+
+5. LLM-based AIOps methods 
+
+- [Self-Evolution](https://github.com/AIOps-Lab-NKU/Self-Evolution)
