@@ -33,6 +33,7 @@
 - [CMDiagnostor](https://github.com/AIOps-Lab-NKU/CMDiagnostor)
 - [PSqueeze](https://github.com/AIOps-Lab-NKU/PSqueeze)
 - [DualLMAD](https://github.com/AIOps-Lab-NKU/DualLMAD)
+- [VersaGuardian](https://github.com/AIOps-Lab-NKU/VersaGuardian)
 
 2. Log-based AIOps methods
 
